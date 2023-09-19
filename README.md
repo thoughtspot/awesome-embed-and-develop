@@ -8,8 +8,10 @@ Ask Docs (AI Q&A on developing with the Visual Embed SDK): https://developers.th
 
 REST API V2.0 documentation is built into the Playground of each instance. Live public system to view: https://try-everywhere.thoughtspot.cloud/v2/#/everywhere/api/rest/playgroundV2_0
 
-## tutorial
+## tutorials
+Fundamentals: https://github.com/thoughtspot/tse-fundamentals
 
+Advanced: https://github.com/thoughtspot/tse-advanced
 
 ## code examples
 https://github.com/thoughtspot/ts_everywhere_resources
