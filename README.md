@@ -33,3 +33,7 @@ https://github.com/thoughtspot/custom-css-demo
 Pythonic REST API V1 and V2 library: https://github.com/thoughtspot/thoughtspot_rest_api_v1_python
 
 TML editing library: https://github.com/thoughtspot/thoughtspot_tml
+
+## command line utilities
+
+CS Tools implements many advanced features as command-line utilities (built in Python): https://github.com/thoughtspot/cs_tools
