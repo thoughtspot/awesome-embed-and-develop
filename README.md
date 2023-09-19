@@ -16,6 +16,11 @@ Advanced: https://github.com/thoughtspot/tse-advanced
 ## code examples
 https://github.com/thoughtspot/ts_everywhere_resources
 
+### react
+React component demo: https://codesandbox.io/s/github/ashubham/big-react-demo
+
+Demo Application Builder: https://github.com/thoughtspot/TSE-Demo-Builder
+
 ## css customization examples
 https://github.com/thoughtspot/custom-css-demo
 
