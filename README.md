@@ -11,9 +11,9 @@ REST API V2.0 documentation is built into the Playground of each instance. Live 
 Trusted Authentication Overview: https://developers.thoughtspot.com/docs/trusted-auth
 
 ## tutorials
-Fundamentals: https://github.com/thoughtspot/tse-fundamentals
+Fundamentals: https://github.com/thoughtspot/tse-fundamentals-tutorial
 
-Advanced: https://github.com/thoughtspot/tse-advanced
+Advanced: https://github.com/thoughtspot/tse-advanced-tutorial
 
 ## code examples
 General repository of examples: https://github.com/thoughtspot/ts_everywhere_resources
