@@ -21,7 +21,7 @@ General repository of examples: https://github.com/thoughtspot/ts_everywhere_res
 Trusted authentication token request services: https://developers.thoughtspot.com/docs/trusted-auth-token-request-service#_code_examples
 
 ### react
-React component demo: https://codesandbox.io/s/github/ashubham/big-react-demo
+React component demo: https://codesandbox.io/s/big-tse-react-demo-i4g9xi
 
 Demo Application Builder: https://github.com/thoughtspot/TSE-Demo-Builder
 
