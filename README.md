@@ -10,6 +10,12 @@ REST API V2.0 documentation is built into the Playground of each instance. Live 
 
 Trusted Authentication Overview: https://developers.thoughtspot.com/docs/trusted-auth
 
+Row Level Security (data entitlements):
+
+* RLS Rules: https://developers.thoughtspot.com/docs/rls-rules
+* ABAC attributes within login tokens (beta): https://developers.thoughtspot.com/docs/abac-user-parameters
+* Tester page for ABAC: https://github.com/thoughtspot/ts_everywhere_resources/tree/master/examples/abac_with_token_auth
+
 ## tutorials
 Fundamentals: https://github.com/thoughtspot/tse-fundamentals-tutorial
 
